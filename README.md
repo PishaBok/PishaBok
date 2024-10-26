@@ -1,6 +1,12 @@
 ## Hi there 👋
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PishaBok&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PishaBok&theme=dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PishaBok&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PishaBok&theme=dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PishaBok&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PishaBok&theme=dark&utcOffset=8)
 
 
 
